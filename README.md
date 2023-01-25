@@ -52,4 +52,4 @@ Arcania
 
 ### Tibia Maps
 
-Tibia 8.54 Map (Modified)<br/>
+[Tibia 8.54 Maps](https://taddan.github.io/library/tibia001.html)<br/>
