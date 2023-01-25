@@ -25,13 +25,13 @@ de_sierra
 
 ### Stronghold Crusader Maps
 
-[Silk Road](https://taddan.github.io/library/shc001.html)<br/>
-[2 Lads & Land of Foes](https://taddan.github.io/library/shc002.html)<br/>
+[Silk Road (8 p.)](https://taddan.github.io/library/shc001.html)<br/>
+[2 Lads & Land of Foes (8 p.)](https://taddan.github.io/library/shc002.html)<br/>
 
 ### Stronghold Legends Maps
 
-[The Creek](https://steamcommunity.com/sharedfiles/filedetails/?id=1134821287)<br/>
-[Lands of Glory](https://steamcommunity.com/sharedfiles/filedetails/?id=1588275430)<br/>
+[The Creek (2 p.)](https://steamcommunity.com/sharedfiles/filedetails/?id=1134821287)<br/>
+[Lands of Glory (4 p.)](https://steamcommunity.com/sharedfiles/filedetails/?id=1588275430)<br/>
 
 ### Left 4 Dead 2 Mods
 
