@@ -1,6 +1,6 @@
 Here you will find projects which I have personally made. You will also find here WIP projects and additional shared files.
 ### GoldSrc
-Half-Life: Intermission<br/>
+[Half-Life: Intermission](https://taddan.github.io/library/goldsrc001.html)<br/>
 Half-Life: Red Dawn
 
 ### Counter-Strike 1.6 Maps
