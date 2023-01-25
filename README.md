@@ -6,7 +6,7 @@ Half-Life: Red Dawn
 ### Counter-Strike 1.6 Maps
 
 de_hazard<br/>
-de_sirius
+de_sierra
 
 ### Company of Heroes 2 Maps
 
