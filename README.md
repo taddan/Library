@@ -21,6 +21,12 @@ de_sierra
 
 [(2 - 6) Hometown (Alpha)](https://steamcommunity.com/sharedfiles/filedetails/?id=761043435/) (Steam) <br/>
 
+#### Source Files
+
+### Stronghold Crusader Maps
+
+[Silk Road](shc001.html)<br/>
+
 ### Stronghold Legends Maps
 
 [The Creek](https://steamcommunity.com/sharedfiles/filedetails/?id=1134821287)<br/>
