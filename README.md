@@ -25,7 +25,7 @@ de_sierra
 
 ### Stronghold Crusader Maps
 
-[Silk Road](https://taddan.github.io/library/shc001.md)<br/>
+[Silk Road](https://taddan.github.io/library/shc001.html)<br/>
 
 ### Stronghold Legends Maps
 
