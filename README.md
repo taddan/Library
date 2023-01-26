@@ -1,5 +1,6 @@
 Here you will find projects which I have personally made. You will also find here WIP projects and additional shared files.
 ### GoldSrc
+
 [Half-Life: Intermission](https://taddan.github.io/library/goldsrc001.html)<br/>
 Half-Life: Red Dawn
 
@@ -10,18 +11,48 @@ de_sierra
 
 ### Company of Heroes 2 Maps
 
-[(2 - 8) Behind Enemy Lines](https://steamcommunity.com/sharedfiles/filedetails/?id=530163440)<br/>
-[(2 - 6) Otterburg](https://steamcommunity.com/sharedfiles/filedetails/?id=760521635)<br/>
-[(2 - 6) Hometown](https://steamcommunity.com/sharedfiles/filedetails/?id=943145481)<br/>
-[(2 - 6) Volhynian Transit](https://steamcommunity.com/sharedfiles/filedetails/?id=1250754845)<br/>
-[(2 - 6) Turdorf](https://steamcommunity.com/sharedfiles/filedetails/?id=1269540437)<br/>
-[(2 - 8) Metropolis](https://steamcommunity.com/sharedfiles/filedetails/?id=1775503602)<br/>
+#### Finished Maps
+[(2 - 8) Behind Enemy Lines](https://taddan.github.io/library/coh2001.html)<br/>
+[(2 - 6) Otterburg](https://taddan.github.io/library/coh2002.html)<br/>
+[(2 - 6) Hometown](https://taddan.github.io/library/coh2003.html)<br/>
+[(2 - 6) Volhynian Transit](https://taddan.github.io/library/coh2004.html)<br/>
+[(2 - 6) Turdorf](https://taddan.github.io/library/coh2005.html)<br/>
+[(2 - 8) Metropolis](https://taddan.github.io/library/coh2006.html)<br/>
 
 #### Other Versions
-
 [(2 - 6) Hometown (Alpha)](https://steamcommunity.com/sharedfiles/filedetails/?id=761043435/) (Steam) <br/>
 
+#### Unfinished Maps
+[(2 - 6) Hometown Counter-Attack]()<br/>
+[(2 - ?) La Ville]()<br/>
+[(2 - ?) Long Red Line]()<br/>
+[(2 - ?) Memel Outskirts]()<br/>
+[(2 - ?) Moba]()<br/>
+[(2 - ?) Operation Warlord]()<br/>
+[(2 - ?) Operation Zugzwang]()<br/>
+[(2 - ?) Plutoniumwerk]()<br/>
+[(2 - ?) reconquista]()<br/>
+[(2 - ?) River Transit]()<br/>
+[(2 - ?) Rough Landing]()<br/>
+
 #### Source Files
+[(2 - 8) Behind Enemy Lines](https://taddan.github.io/library/coh2001f01.html)<br/>
+[(2 - 6) Otterburg](https://taddan.github.io/library/coh2002f01.html)<br/>
+[(2 - 6) Hometown](https://taddan.github.io/library/coh2003f01.html)<br/>
+[(2 - 6) Volhynian Transit](https://taddan.github.io/library/coh2004f01.html)<br/>
+[(2 - 6) Turdorf](https://taddan.github.io/library/coh2005f01.html)<br/>
+[(2 - 8) Metropolis](https://taddan.github.io/library/coh2006f01.html)<br/>
+[(2 - 6) Hometown Counter-Attack]()<br/>
+[(2 - ?) La Ville]()<br/>
+[(2 - ?) Long Red Line]()<br/>
+[(2 - ?) Memel Outskirts]()<br/>
+[(2 - ?) Moba]()<br/>
+[(2 - ?) Operation Warlord]()<br/>
+[(2 - ?) Operation Zugzwang]()<br/>
+[(2 - ?) Plutoniumwerk]()<br/>
+[(2 - ?) reconquista]()<br/>
+[(2 - ?) River Transit]()<br/>
+[(2 - ?) Rough Landing]()<br/>
 
 ### Stronghold Crusader Maps
 
