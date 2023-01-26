@@ -8,8 +8,15 @@ Half-Life: Red Dawn
 
 de_hazard<br/>
 de_sierra
+### Company of Heroes Maps
+[Operation Matildas]()<br/>
+[Suburb Station]()<br/>
+[Rough Landing]()<br/>
 
 ### Company of Heroes 2 Maps
+[(2 - 8) Behind Enemy Lines](https://taddan.github.io/library/coh2001.html)<br/>
+[(2 - 6) Otterburg](https://taddan.github.io/library/coh2002.html)<br/>
+[(2 - 6) Hometown](https://taddan.github.io/library/coh2003.html)<br/>
 
 #### Finished Maps
 [(2 - 8) Behind Enemy Lines](https://taddan.github.io/library/coh2001.html)<br/>
