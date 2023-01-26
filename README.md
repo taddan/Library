@@ -19,20 +19,17 @@ de_sierra
 [(2 - 6) Turdorf](https://taddan.github.io/library/coh2005.html)<br/>
 [(2 - 8) Metropolis](https://taddan.github.io/library/coh2006.html)<br/>
 
-#### Other Versions
-[(2 - 6) Hometown (Alpha)](https://steamcommunity.com/sharedfiles/filedetails/?id=761043435/) (Steam) <br/>
-
 #### Unfinished Maps
 [(2 - 6) Hometown Counter-Attack]()<br/>
-[(2 - ?) La Ville]()<br/>
+[(2 - 6) La Ville]()<br/>
 [(2 - ?) Long Red Line]()<br/>
-[(2 - ?) Memel Outskirts]()<br/>
-[(2 - ?) Moba]()<br/>
+[(2 - 6) Memel Outskirts]()<br/>
+[(2 - 8) Moba]()<br/>
 [(2 - ?) Operation Warlord]()<br/>
 [(2 - ?) Operation Zugzwang]()<br/>
 [(2 - ?) Plutoniumwerk]()<br/>
 [(2 - ?) reconquista]()<br/>
-[(2 - ?) River Transit]()<br/>
+[(2 - 6) River Transit]()<br/>
 [(2 - ?) Rough Landing]()<br/>
 
 #### Source Files
@@ -43,15 +40,15 @@ de_sierra
 [(2 - 6) Turdorf](https://taddan.github.io/library/coh2005f01.html)<br/>
 [(2 - 8) Metropolis](https://taddan.github.io/library/coh2006f01.html)<br/>
 [(2 - 6) Hometown Counter-Attack]()<br/>
-[(2 - ?) La Ville]()<br/>
+[(2 - 6) La Ville]()<br/>
 [(2 - ?) Long Red Line]()<br/>
-[(2 - ?) Memel Outskirts]()<br/>
-[(2 - ?) Moba]()<br/>
+[(2 - 6) Memel Outskirts]()<br/>
+[(2 - 8) Moba]()<br/>
 [(2 - ?) Operation Warlord]()<br/>
 [(2 - ?) Operation Zugzwang]()<br/>
 [(2 - ?) Plutoniumwerk]()<br/>
 [(2 - ?) reconquista]()<br/>
-[(2 - ?) River Transit]()<br/>
+[(2 - 6) River Transit]()<br/>
 [(2 - ?) Rough Landing]()<br/>
 
 ### Stronghold Crusader Maps
