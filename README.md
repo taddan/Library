@@ -14,7 +14,6 @@ de_sierra
 [Rough Landing]()<br/>
 
 ### Company of Heroes 2 Maps
-#### Finished Maps
 [(2 - 8) Behind Enemy Lines](https://taddan.github.io/library/coh2001.html)<br/>
 [(2 - 6) Otterburg](https://taddan.github.io/library/coh2002.html)<br/>
 [(2 - 6) Hometown](https://taddan.github.io/library/coh2003.html)<br/>
