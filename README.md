@@ -9,8 +9,8 @@ Half-Life: Red Dawn
 de_hazard<br/>
 de_sierra
 ### Company of Heroes Maps
-[(2 - 4) Operation Matildas]()<br/>
-[(2 - 4) Suburb Station]()<br/>
+[(2 - 4) Operation Matildas](https://taddan.github.io/library/coh001.html)<br/>
+[(2 - 4) Suburb Station](https://taddan.github.io/library/coh002.html)<br/>
 [(2 - 8) Rough Landing]()<br/>
 
 ### Company of Heroes 2 Maps
