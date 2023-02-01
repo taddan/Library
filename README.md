@@ -27,8 +27,6 @@ de_sierra
 [(2 - ?) Long Red Line]()<br/>
 [(2 - 6) Memel Outskirts]()<br/>
 [(2 - 8) Moba]()<br/>
-[(2 - ?) Operation Warlord]()<br/>
-[(2 - ?) Operation Zugzwang]()<br/>
 [(2 - ?) Plutoniumwerk]()<br/>
 [(2 - ?) reconquista]()<br/>
 [(2 - 6) River Transit]()<br/>
@@ -46,8 +44,6 @@ de_sierra
 [(2 - ?) Long Red Line]()<br/>
 [(2 - 6) Memel Outskirts]()<br/>
 [(2 - 8) Moba]()<br/>
-[(2 - ?) Operation Warlord]()<br/>
-[(2 - ?) Operation Zugzwang]()<br/>
 [(2 - ?) Plutoniumwerk]()<br/>
 [(2 - ?) reconquista]()<br/>
 [(2 - 6) River Transit]()<br/>
