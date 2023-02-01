@@ -1,17 +1,15 @@
 Here you will find projects which I have personally made. You will also find here WIP projects and additional shared files.
 ### GoldSrc
-
 [Half-Life: Intermission](https://taddan.github.io/library/goldsrc001.html)<br/>
 Half-Life: Red Dawn
 
 ### Counter-Strike 1.6 Maps
-
 de_hazard<br/>
 de_sierra
+
 ### Company of Heroes Maps
 [(2 - 4) Operation Matildas](https://taddan.github.io/library/coh001.html)<br/>
 [(2 - 4) Suburb Station](https://taddan.github.io/library/coh002.html)<br/>
-[(2 - 8) Rough Landing]()<br/>
 
 ### Company of Heroes 2 Maps
 [(2 - 8) Behind Enemy Lines](https://taddan.github.io/library/coh2001.html)<br/>
