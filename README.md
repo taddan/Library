@@ -32,23 +32,6 @@ de_sierra
 [(2 - 6) River Transit]()<br/>
 [(2 - ?) Rough Landing]()<br/>
 
-#### Source Files
-[(2 - 8) Behind Enemy Lines](https://taddan.github.io/library/coh2001f01.html)<br/>
-[(2 - 6) Otterburg](https://taddan.github.io/library/coh2002f01.html)<br/>
-[(2 - 6) Hometown](https://taddan.github.io/library/coh2003f01.html)<br/>
-[(2 - 6) Volhynian Transit](https://taddan.github.io/library/coh2004f01.html)<br/>
-[(2 - 6) Turdorf](https://taddan.github.io/library/coh2005f01.html)<br/>
-[(2 - 8) Metropolis](https://taddan.github.io/library/coh2006f01.html)<br/>
-[(2 - 6) Hometown Counter-Attack]()<br/>
-[(2 - 6) La Ville]()<br/>
-[(2 - ?) Long Red Line]()<br/>
-[(2 - 6) Memel Outskirts]()<br/>
-[(2 - 8) Moba]()<br/>
-[(2 - ?) Plutoniumwerk]()<br/>
-[(2 - ?) reconquista]()<br/>
-[(2 - 6) River Transit]()<br/>
-[(2 - ?) Rough Landing]()<br/>
-
 ### Stronghold Crusader Maps
 
 [Silk Road (8 p.)](https://taddan.github.io/library/shc001.html)<br/>
