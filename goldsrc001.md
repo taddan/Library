@@ -4,6 +4,9 @@ The game takes place in Half-Life universe during and after the events of Black 
 
 ## Download
 [Half-Life: Intermission](https://github.com/taddan/library/raw/main/gs001f01.rar)<br/>
-[Source Files]()
+### Source Files
+[Mod Folder]()<br/>
+[Tools]()<br/>
+[Resources]()<br/>
 
 ## Screenshots
