@@ -4,6 +4,6 @@ de_sierra is a Counter-Strike 1.6 map set in rocky desert mountains. It was crea
 
 ## Download
 [Map](https://gamebanana.com/mods/448461)<br/>
-[Source files](https://drive.google.com/file/d/1tZdsgsAdOv-fiVROReByEbTm6b-BoJKy/view?usp=sharing)(Used for opening and editing map)<br/>
+[Source files](https://drive.google.com/file/d/1tZdsgsAdOv-fiVROReByEbTm6b-BoJKy/view?usp=sharing) (Used for opening and editing map)<br/>
 
 ## Screenshots
