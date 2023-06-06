@@ -1,12 +1,9 @@
 [Back to main page](https://taddan.github.io/library/)<br/>
 ## Description
-Counter-Strike 1.6 map created long time ago, but only published recently
+de_sierra is a Counter-Strike 1.6 map set in rocky desert mountains. It was created long time ago, but only published recently.
 
 ## Download
-[Half-Life: Intermission](https://github.com/taddan/library/raw/main/gs001f01.rar)<br/>
-### Source Files
-[Mod Folder]()<br/>
-[Tools]()<br/>
-[Resources]()<br/>
+[Map](https://gamebanana.com/mods/448461)<br/>
+[Source files](https://drive.google.com/file/d/1tZdsgsAdOv-fiVROReByEbTm6b-BoJKy/view?usp=sharing)(Used for opening and editing map)<br/>
 
 ## Screenshots
