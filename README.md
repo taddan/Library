@@ -5,7 +5,7 @@ Half-Life: Red Dawn
 
 ### Counter-Strike 1.6 Maps
 de_hazard<br/>
-de_sierra
+[de_sierra](https://taddan.github.io/library/goldsrc002.html)
 
 ### Company of Heroes Maps
 [(2 - 4) Operation Matildas](https://taddan.github.io/library/coh001.html) (2013-12-15)<br/>
